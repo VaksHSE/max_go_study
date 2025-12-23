@@ -1,0 +1,1 @@
+package max_go_study
